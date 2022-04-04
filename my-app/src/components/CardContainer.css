@@ -1,0 +1,22 @@
+.card-container {
+    width: 20rem;
+    color: steelblue;
+}
+
+.card-container img {
+    width: 20em;
+}
+
+.card-container h1 {
+    font-size: 2rem;
+    padding: 1rem;
+}
+
+.card-container h2 {
+    font-size: 1rem;
+    padding: 1rem;
+}
+
+.card-container p {
+    color: black;
+}
